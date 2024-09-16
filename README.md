@@ -26,3 +26,6 @@ Loan defaults pose a significant risk to financial institutions, leading to loss
 
 - To create a machine learning model that predicts the likelihood of loan defaults based on various applicant attributes and historical data.
 
+# EDA
+
+![pic_eda](https://github.com/user-attachments/assets/bb4c9880-c17d-4f3a-ba50-00b92735e048)

@@ -12,3 +12,14 @@
 9. MUSTAFA ALVIN
 10. LOYD KOOME
 11. VIVIAN MUKHONGO
+
+# BACKGROUND
+Financial institutions encounter significant challenges in assessing the creditworthiness of loan applicants, a crucial factor for minimizing defaults and managing risk. 
+
+By leveraging these technologies, financial institutions can better analyze a range of applicant data, including spending habits, income patterns, and even social factors, to make more informed lending decisions.
+
+# PROBLEM STATEMENT
+Loan defaults pose a significant risk to financial institutions, leading to losses and reduced profitability. Predicting which borrowers are likely to default as accurately as possible based on factors like credit history, income, and loan characteristics can help mitigate this risk
+
+
+

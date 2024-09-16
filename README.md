@@ -21,5 +21,8 @@ By leveraging these technologies, financial institutions can better analyze a ra
 # PROBLEM STATEMENT
 Loan defaults pose a significant risk to financial institutions, leading to losses and reduced profitability. Predicting which borrowers are likely to default as accurately as possible based on factors like credit history, income, and loan characteristics can help mitigate this risk
 
+# OBJECTIVES
+- To develop strategies and guidelines based on the model’s insights to help financial institutions make informed lending decisions.
 
+- To create a machine learning model that predicts the likelihood of loan defaults based on various applicant attributes and historical data.
 

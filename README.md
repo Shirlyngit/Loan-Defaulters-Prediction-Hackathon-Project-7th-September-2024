@@ -31,3 +31,8 @@ Loan defaults pose a significant risk to financial institutions, leading to loss
 ![pic_eda](https://github.com/user-attachments/assets/bb4c9880-c17d-4f3a-ba50-00b92735e048)
 
 
+# MODELING
+
+![model_](https://github.com/user-attachments/assets/bdf820f5-a515-484a-9e0c-1a879b8648ee)
+
+

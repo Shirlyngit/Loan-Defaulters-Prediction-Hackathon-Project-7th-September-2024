@@ -1,8 +1,8 @@
 # Loan-Defaulters-Prediction-Hackathon-Project-7th-September-2024
 
 # Team
-1. SOLPHINE JOSEPH
-2. VICTOR ALANDO
+1. SOLPHINE JOSEPH - 
+2. VICTOR ALANDO 
 3. GLORIA CHEBET
 4. FAITH OWINO
 5. ESTHER FRANCIS

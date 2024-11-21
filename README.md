@@ -1,18 +1,19 @@
-# Loan-Defaulters-Prediction-Hackathon-Project-7th-September-2024
+#💰 Loan-Defaulters-Prediction-Hackathon-Project-7th-September-2024
 
 # Team
-1. SOLPHINE JOSEPH - 
-2. VICTOR ALANDO 
-3. GLORIA CHEBET
-4. FAITH OWINO
-5. ESTHER FRANCIS
-6. LUIS OKECH
-7. NYABOKE ATUNGA
-8. VIVIAN MUKHONGO
-9. MUSTAFA ALVIN
-10. LOYD KOOME
-11. VIVIAN MUKHONGO
-12. Everlyne Achaya Zawadi
+1. SHIRLYNE ODHIAMBO
+2. SOLPHINE JOSEPH - 
+3. VICTOR ALANDO 
+4. GLORIA CHEBET
+5. FAITH OWINO
+6. ESTHER FRANCIS
+7. LUIS OKECH
+8. NYABOKE ATUNGA
+9. VIVIAN MUKHONGO
+10. MUSTAFA ALVIN
+11. LOYD KOOME
+12. VIVIAN MUKHONGO
+13. Everlyne Achaya Zawadi
 
 # BACKGROUND
 Financial institutions encounter significant challenges in assessing the creditworthiness of loan applicants, a crucial factor for minimizing defaults and managing risk. 
